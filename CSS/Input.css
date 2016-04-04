@@ -1,0 +1,14 @@
+#Inputs {
+	
+	background-color: white;
+}
+
+#mobile-condition {
+	display: none;
+}
+
+.des {
+	 width:100%;
+	 overflow:auto;
+	 word-break:break-all;
+}
